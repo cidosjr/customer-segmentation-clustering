@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# customer-segmentation-clustering
-=======
 # customer-segmentation-clustering
 
 ## A short description of the project
